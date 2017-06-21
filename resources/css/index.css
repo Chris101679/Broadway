@@ -42,3 +42,11 @@ p {
 a {
 	color: white;
 }
+
+.new {
+	background-image: url("resources/images/the-flatiron-building.jpg");
+	font-family: helvetica;
+	font-size: 23px;
+	font-weight: bold;
+
+}
