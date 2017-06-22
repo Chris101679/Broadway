@@ -3,11 +3,12 @@ body {
 	
 }
 
-#home {
+.head {
 	font-family: helvetica;
 	font-size: 70px;
 	font-weight: bold;
-	background-image: url("resources/images/the-flatiron-building.jpg");
+	background-image: url("../images/the-flatiron-building.png");
+	color: white;
 
 }
 
@@ -32,10 +33,6 @@ a {
 	color: white;
 }
 
-.head {
-	background-image: url("resources/images/the-flatiron-building.jpg");
-	color: black;
-}
 
 .footer {
 	text-align: left;
@@ -47,4 +44,5 @@ a {
 	font-family: helvetica;
 	font-size: 23px
 	font-weight: bold;
+	background-image: url("../images/the-flatiron-building.png");
 }
