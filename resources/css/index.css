@@ -3,13 +3,24 @@ body {
 	
 }
 
+h1 {
+	font-size: 70px;
+}
+
 .head {
 	font-family: helvetica;
-	font-size: 70px;
 	font-weight: bold;
 	background-image: url("../images/the-flatiron-building.png");
 	color: white;
 
+}
+
+.new {
+	font-family: helvetica;
+	font-size: 23px
+	color: white;
+	font-weight: bold;
+	background-image: url("../images/the-flatiron-building.png");
 }
 
 h2 {
@@ -21,6 +32,13 @@ h2 {
 h3 {
 	font-family: helvetica;
 	font-size: 23px
+	font-weight: bold;
+}
+
+h4 {
+    font-family: helvetica;
+	color: white;
+	font-size: 23px;
 	font-weight: bold;
 }
 
@@ -40,9 +58,3 @@ a {
 	color: white;
 }
 
-.new {
-	font-family: helvetica;
-	font-size: 23px
-	font-weight: bold;
-	background-image: url("../images/the-flatiron-building.png");
-}
